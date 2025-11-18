@@ -1,0 +1,6 @@
+Commit-Zeitpunkt: 2025-11-18 09:30:00
+Änderungen:
+- business_logic.py: Zeile 107 - User Query wird jetzt im Log ausgegeben
+- result_synthesizer.py: Zeile 92 - Synthese-Ergebnis wird im Log ausgegeben (erste 500 Zeichen)
+
+Status: Basis für Planner-Refactoring mit Loop-Support
